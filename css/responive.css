@@ -1,4 +1,4 @@
-@media (max-width :1108px){
+@media screen,(max-width :1108px){
 
     .wrapper{
         width: 90%;
@@ -12,7 +12,7 @@
       }
 }
 
-@media(max-width:900px){
+@media screen,(max-width:900px){
     body{
         font-size: 85%;
     }
@@ -41,7 +41,7 @@
       }
       
 }
-@media(max-width:750px){
+@media screen,(max-width:750px){
     
     #navbar nav a{
         font-size: 0.9em;
@@ -60,8 +60,11 @@
       .col-3 ,.col-2,.col-1{
           width: 100%;
           margin-left:0;
-          float: left;
-          border-right: 0;
+          float: none;
+         
+      }
+      .border-right{
+          border:0;
       }
 
       #details div{
