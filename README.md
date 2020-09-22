@@ -7,7 +7,7 @@ increasingly unreadable? This is what we refer to as _desktop down_ design. In
 this case, our comp was built at full size, and it's up to you as a developer to
 pick appropriate break points and adjust the layout as necessary. Since we want
 our users to have the best experience at all sizes, and there is no one sizing
-standard in place for phones and tablets, working on a fully responsive design
+standard in place phones and tablets, working on a fully responsive design
 takes some trial and error on our part. 
 
 In this lab we will practice adjusting existing HTML and CSS to include
